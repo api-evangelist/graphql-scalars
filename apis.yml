@@ -32,6 +32,8 @@ apis:
       - url: graphql/graphql-scalars-graphql.md
         type: GraphQL
 common:
+  - type: DomainSecurity
+    url: security/graphql-scalars-domain-security.yml
   - url: https://the-guild.dev/graphql/scalars
     type: Website
   - url: https://the-guild.dev/graphql/scalars/docs
